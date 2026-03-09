@@ -1,0 +1,1 @@
+CPU + GPU Execution time 0.108
